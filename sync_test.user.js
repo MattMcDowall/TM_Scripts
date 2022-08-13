@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         🙈 Sync Test
-// @version      1.1
+// @version      1.2
 // @author       spoko
 // @match        *://*/*
 // @downloadURL  https://github.com/MattMcDowall/TM_Scripts/raw/main/sync_test.js
