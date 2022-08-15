@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         🙈 Sync Test
-// @version      2.1
+// @version      2.2
 // @author       spoko
 // @match        *://*/*
 // @downloadURL  https://github.com/MattMcDowall/TM_Scripts/raw/main/sync_test.user.js
@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 // This time really all I'm doing is updating the version number
-console.log("Trying a full version update with a bigger time gap since the previous.");
+// console.log("Trying a full version update with a bigger time gap since the previous.");
 
 function addGlobalStyle(css) {
     var head, style;
