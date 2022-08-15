@@ -3,8 +3,8 @@
 // @version      2.0
 // @author       spoko
 // @match        *://*/*
-// @downloadURL  https://github.com/MattMcDowall/TM_Scripts/raw/main/sync_test.js
-// @updateURL    https://github.com/MattMcDowall/TM_Scripts/raw/main/sync_test.js
+// @downloadURL  https://github.com/MattMcDowall/TM_Scripts/raw/main/sync_test.user.js
+// @updateURL    https://github.com/MattMcDowall/TM_Scripts/raw/main/sync_test.user.js
 // @description  Does a thing.
 // @grant        none
 // ==/UserScript==
